@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: paperless-ngx\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-19 20:52+0000\n"
-"PO-Revision-Date: 2025-05-19 20:54\n"
+"PO-Revision-Date: 2025-05-21 00:35\n"
 "Last-Translator: \n"
 "Language-Team: Catalan\n"
 "Language: ca_ES\n"
@@ -1573,47 +1573,47 @@ msgstr "Logo Aplicació"
 
 #: paperless/models.py:197
 msgid "Enables barcode scanning"
-msgstr ""
+msgstr "Habilita escaneig de codis de barres"
 
 #: paperless/models.py:203
 msgid "Enables barcode TIFF support"
-msgstr ""
+msgstr "Habilita compatibilitat amb codis de barres TIFF"
 
 #: paperless/models.py:209
 msgid "Sets the barcode string"
-msgstr ""
+msgstr "Estableix la cadena de codi de barres"
 
 #: paperless/models.py:217
 msgid "Retains split pages"
-msgstr ""
+msgstr "Conserva pàgines dividides"
 
 #: paperless/models.py:223
 msgid "Enables ASN barcode"
-msgstr ""
+msgstr "Habilita codi de barres ASN"
 
 #: paperless/models.py:229
 msgid "Sets the ASN barcode prefix"
-msgstr ""
+msgstr "Estableix el prefix del codi de barres ASN"
 
 #: paperless/models.py:237
 msgid "Sets the barcode upscale factor"
-msgstr ""
+msgstr "Estableix el factor d'escala del codi de barres"
 
 #: paperless/models.py:244
 msgid "Sets the barcode DPI"
-msgstr ""
+msgstr "Estableix DPI del codi de barres"
 
 #: paperless/models.py:251
 msgid "Sets the maximum pages for barcode"
-msgstr ""
+msgstr "Estableix nombre màxim de pàgines pel codi de barres"
 
 #: paperless/models.py:258
 msgid "Enables tag barcode"
-msgstr ""
+msgstr "Habilita etiqueta de codi de barres"
 
 #: paperless/models.py:264
 msgid "Sets the tag barcode mapping"
-msgstr ""
+msgstr "Defineix el mapatge de l'etiqueta del codi de barres"
 
 #: paperless/models.py:269
 msgid "paperless application settings"

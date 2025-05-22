@@ -5084,7 +5084,7 @@
           <context context-type="sourcefile">src/app/components/common/edit-dialog/workflow-edit-dialog/workflow-edit-dialog.component.html</context>
           <context context-type="linenumber">132</context>
         </context-group>
-        <target state="needs-translation">Positive values will trigger the workflow before the date, negative values after.</target>
+        <target state="translated">Valors positius activaran el flux de treball abans de la data, els valors negatius després.</target>
       </trans-unit>
       <trans-unit id="3726450101884717309" datatype="html">
         <source>Relative to</source>
@@ -8336,7 +8336,7 @@
           <context context-type="sourcefile">src/app/components/document-list/document-card-small/document-card-small.component.html</context>
           <context context-type="linenumber">91,92</context>
         </context-group>
-        <target state="needs-translation">Created: <x id="INTERPOLATION" equiv-text="{{ document.created | customDate }}"/></target>
+        <target state="translated">Creat: <x id="INTERPOLATION" equiv-text="{{ document.created | customDate }}"/></target>
       </trans-unit>
       <trans-unit id="2030261243264601523" datatype="html">
         <source>Added: <x id="INTERPOLATION" equiv-text="{{ document.added | customDate }}"/></source>
@@ -9116,7 +9116,7 @@
           <context context-type="sourcefile">src/app/components/file-drop/file-drop.component.ts</context>
           <context context-type="linenumber">144</context>
         </context-group>
-        <target state="needs-translation">Failed to read dropped items: <x id="PH" equiv-text="e.message"/></target>
+        <target state="translated">Error llegint elements perduts: <x id="PH" equiv-text="e.message"/></target>
       </trans-unit>
       <trans-unit id="6316128875819022658" datatype="html">
         <source>correspondent</source>
@@ -10265,7 +10265,7 @@
           <context context-type="sourcefile">src/app/data/paperless-config.ts</context>
           <context context-type="linenumber">52</context>
         </context-group>
-        <target state="needs-translation">Barcode Settings</target>
+        <target state="translated">Opcions del codi de barres</target>
       </trans-unit>
       <trans-unit id="1313137480169642057" datatype="html">
         <source>Output Type</source>
@@ -10385,7 +10385,7 @@
           <context context-type="sourcefile">src/app/data/paperless-config.ts</context>
           <context context-type="linenumber">186</context>
         </context-group>
-        <target state="needs-translation">Enable Barcodes</target>
+        <target state="translated">Habilita codi de barres</target>
       </trans-unit>
       <trans-unit id="5111693440737450705" datatype="html">
         <source>Enable TIFF Support</source>
@@ -10393,7 +10393,7 @@
           <context context-type="sourcefile">src/app/data/paperless-config.ts</context>
           <context context-type="linenumber">193</context>
         </context-group>
-        <target state="needs-translation">Enable TIFF Support</target>
+        <target state="translated">Habilita compatibilitat TIFF</target>
       </trans-unit>
       <trans-unit id="7024102701648099736" datatype="html">
         <source>Barcode String</source>
@@ -10401,7 +10401,7 @@
           <context context-type="sourcefile">src/app/data/paperless-config.ts</context>
           <context context-type="linenumber">200</context>
         </context-group>
-        <target state="needs-translation">Barcode String</target>
+        <target state="translated">Cadena de codi de barres</target>
       </trans-unit>
       <trans-unit id="5496493538285104278" datatype="html">
         <source>Retain Split Pages</source>
@@ -10409,7 +10409,7 @@
           <context context-type="sourcefile">src/app/data/paperless-config.ts</context>
           <context context-type="linenumber">207</context>
         </context-group>
-        <target state="needs-translation">Retain Split Pages</target>
+        <target state="translated">Conserva pàgines dividides</target>
       </trans-unit>
       <trans-unit id="3585266363073659539" datatype="html">
         <source>Enable ASN</source>
@@ -10417,7 +10417,7 @@
           <context context-type="sourcefile">src/app/data/paperless-config.ts</context>
           <context context-type="linenumber">214</context>
         </context-group>
-        <target state="needs-translation">Enable ASN</target>
+        <target state="translated">Habilita ASN</target>
       </trans-unit>
       <trans-unit id="2563883192247717052" datatype="html">
         <source>ASN Prefix</source>
@@ -10425,7 +10425,7 @@
           <context context-type="sourcefile">src/app/data/paperless-config.ts</context>
           <context context-type="linenumber">221</context>
         </context-group>
-        <target state="needs-translation">ASN Prefix</target>
+        <target state="translated">Prefix ASN</target>
       </trans-unit>
       <trans-unit id="876335624277968161" datatype="html">
         <source>Upscale</source>
@@ -10433,7 +10433,7 @@
           <context context-type="sourcefile">src/app/data/paperless-config.ts</context>
           <context context-type="linenumber">228</context>
         </context-group>
-        <target state="needs-translation">Upscale</target>
+        <target state="translated">Millorat</target>
       </trans-unit>
       <trans-unit id="3330040801415354394" datatype="html">
         <source>DPI</source>
@@ -10441,7 +10441,7 @@
           <context context-type="sourcefile">src/app/data/paperless-config.ts</context>
           <context context-type="linenumber">235</context>
         </context-group>
-        <target state="needs-translation">DPI</target>
+        <target state="translated">DPI</target>
       </trans-unit>
       <trans-unit id="2056636654483201493" datatype="html">
         <source>Max Pages</source>
@@ -10449,7 +10449,7 @@
           <context context-type="sourcefile">src/app/data/paperless-config.ts</context>
           <context context-type="linenumber">242</context>
         </context-group>
-        <target state="needs-translation">Max Pages</target>
+        <target state="translated">Max Pàg</target>
       </trans-unit>
       <trans-unit id="7410804727457548947" datatype="html">
         <source>Enable Tag Detection</source>
@@ -10457,7 +10457,7 @@
           <context context-type="sourcefile">src/app/data/paperless-config.ts</context>
           <context context-type="linenumber">249</context>
         </context-group>
-        <target state="needs-translation">Enable Tag Detection</target>
+        <target state="translated">Habilita detecció d'Etiquetes</target>
       </trans-unit>
       <trans-unit id="3723784143052004117" datatype="html">
         <source>Tag Mapping</source>
@@ -10465,7 +10465,7 @@
           <context context-type="sourcefile">src/app/data/paperless-config.ts</context>
           <context context-type="linenumber">256</context>
         </context-group>
-        <target state="needs-translation">Tag Mapping</target>
+        <target state="translated">Mapatge d'Etiquetes</target>
       </trans-unit>
       <trans-unit id="5948496158474272829" datatype="html">
         <source>Warning: You have unsaved changes to your document(s).</source>
